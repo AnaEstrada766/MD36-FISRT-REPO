@@ -1,0 +1,1 @@
+En este bloque he aprendido a usar y configurar Git y GitHub, utilizando la interfaz gráfica de la página así como el uso de comandos en el pPoweShell para modificar, actualizar, crear versiones y subirlo a GitbHub
